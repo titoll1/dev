@@ -35,7 +35,7 @@ const ALLOWED_ROLES_FOR_CLEAR = [
 
 const WELCOME_IMAGE_URL = "https://raw.githubusercontent.com/titopanel2-oss/tool/main/welcome.gif";
 const RULES_IMAGE_URL = "https://raw.githubusercontent.com/hertz100k/HERTZ-WEBSITE/main/%D8%A7%D9%84%D9%82%D9%88%D9%86%D9%8A%D9%86.jpg";
-const SERVER_NAME = "𝑫𝑬𝑽";
+const SERVER_NAME = "𝙀𝙈𝙋𝙄𝙍𝙀";
 const GUILD_ID = "1483218885024026644"; 
 
 // ============================================================
